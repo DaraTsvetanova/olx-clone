@@ -555,6 +555,18 @@ form {
     margin: 15px;
     font-size: 14px;
   }
+
+  .olx-about-paragraph{
+    font-size: 15px;
+    width: 100%;
+    margin: 0;
+  }
+
+  .about-olx{
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+  }
 }
 
 
