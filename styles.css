@@ -12,9 +12,11 @@ body {
 }
 
 header {
+  position: relative;
   background: #002f34;
   color: #ffffff;
   padding: 5px 10px;
+  z-index: 1;
 }
 
 .nav {
@@ -281,6 +283,7 @@ form {
 }
 
 .footer {
+  position: relative;
   border-top: 1px solid #7f9799;
   padding: 60px 20px;
   padding-bottom: 110px;
@@ -288,6 +291,7 @@ form {
   left: 0;
   bottom: 0;
   width: 100%;
+  z-index: 1;
 }
 
 .footer-flex-container,
